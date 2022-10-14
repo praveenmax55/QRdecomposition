@@ -23,7 +23,7 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 ## Program:
 ### Gram-Schmidt Method
-```
+```phython
 
 Program to QR decomposition using the Gram-Schmidt method
 Developed by: your name:PRAVEEN D
@@ -47,18 +47,10 @@ for i in range(n):
         R[i,j]=a[:,j]@e[:,i]
 print(e)
 print(R)
-
-
-
-
-
-
 ```
 
 ## Output
-```
-
-![input](./input.jpgs)
+![input](./input.jpg)
 ![output](./output2.png)
 ```
 
